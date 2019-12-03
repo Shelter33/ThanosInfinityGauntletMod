@@ -1,0 +1,6 @@
+displayName = Thanos Infinity Gauntlet Mod
+author = Shelterraria
+version = 0.1.5
+homepage = https://forums.terraria.org/index.php?threads/thanos-infinity-gauntlet-mod.83754/
+hideCode = true
+hideResource = true

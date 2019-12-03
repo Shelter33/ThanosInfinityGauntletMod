@@ -1,0 +1,64 @@
+Thanos Infinity Gauntlet Mod is a mod I will be creating and adding to over time.
+This is my first mod, and I will make sure to see it through to when it is complete. It will be complete when I'm satisfied with my work!
+I'm making this by myself, so it may take some time. I do not intend to work with specific individuals consistently throughout the creation of the mod.
+------------------------
+
+I have made the mod website be a post on the Terraria Community Forum. You can leave feedback and read all info regarding the mod there.
+
+------------------------
+
+Info- Check the forum post! (Updated 10/29/19)
+
+------------------------
+
+Updates- 
+(Updated 8/31/19)
+- Added Empty Gauntlet
+- Added Infinity Gauntlet
+- Added Each stone with a unique ability
+- Added Orb, Tesseract, Aether, Prized Possession, Mystic Eye, and Scepter
+
+(Updated 9/11/19)
+- Sprites are now slightly better, but still unfinished
+- Some accessories have been balanced
+- Beginning to work on more specific abilities with the stones
+
+(Updated 10/6/19)
+- Some new sprites
+- The Mind Stone currently doesn't work
+- The Power Stone now has a use
+- The Mystic Eye doesn't currently work, neither does the Time Stone
+- The Space Stone cannot be used yet
+- The Tesseract is being fixed
+- Many items don't show their sprites upon use - this is on purpose
+- The Infinity Gauntlet no longer is used as a melee weapon, it is an accessory. This is the first part in a major change for the mod.
+
+(Updated 10/29/19)
+- Sprites have entered Version 4. Changes still to be made.
+- Every stone (except the Time Stone) now has a proper function!
+- All accessories (except the Gauntlet) are working!
+- Some items have a weird use sound or none, I'm still figuring out sounds.
+- I made the Tesseract obtainable. Find out from where by checking out the mod's forum post!
+- The next update will include the Time Stone functioning, temporary ways to obtain all items, and newer sprites. After that comes the Gauntlet.
+
+------------------------
+
+Plans- (Updated 10/6/19)
+-Make better sprites for all items
+-Fully flesh out abilities of each item
+-Make debuffs
+-May add some items from heroes (Concepts: Iron Man Armor, Thor's Hammer, Cap's Shield, Hawkeye's Bow, Spidey's Web Shooters, Supreme Intelligence item?)
+-I have 2 ideas for bosses or waves, if I can figure out how to make them I will make sure to (Avengers wave event)
+-Idea for a pet, structures, and rare loot from chests
+-Gauntlet wont be just a standard weapon, it will have a unique use
+
+------------------------
+
+I would like to state that this idea is not at all new, or my own.
+I will be taking inspiration from other similar mods, and may incorporate some of their mechanics into this one. I will be sure to credit each one here.
+I am obviously not affiliated with Marvel, Disney, or any associated companies. I'm making this for fun.
+
+------------------------
+
+Inspired by addon for Garry's Mod, "Infinity Gauntlet SWEP and Model" by Xyz_
+Inspired by the Ancients Awakened Mod for Terraria.
